@@ -20,6 +20,6 @@ Go to http://colab.research.google.com/, then go to File > Upload notebook and c
 
 #### Open in Kaggle
 
-Go to https://www.kaggle.com and sign in.
+Go to https://www.kaggle.com and sign in. Then click the 'Create' button on the left and start a new notebook. On the next screen, do File > Import notebook.
 
 Enjoy!
