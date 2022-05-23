@@ -1,4 +1,4 @@
-# A workshop on protein language
+# A workshop on protein language models
 
 Building on top of the successes of word embeddings and transformer models for language, increasingly more of these architectures are now being used to learn the 'language of proteins'. This workshop introduces you, both theoretically and practically, to this latest trend in protein sequence analysis and feature engineering.
 
